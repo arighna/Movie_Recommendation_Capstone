@@ -1,9 +1,9 @@
 
 
 <center>Movie Recommendation</center>
-====================
+
 <center>Arighna Roy</center>
--------------
+
 
 ** I. Definition **
 
