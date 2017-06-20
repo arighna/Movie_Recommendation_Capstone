@@ -1,9 +1,11 @@
 
+<p align="center">
+Movie Recommendation
+</p>
 
-<center>Movie Recommendation</center>
-
-<center>Arighna Roy</center>
-
+<p align="center">
+Arighna Roy
+</p>
 
 ** I. Definition **
 
